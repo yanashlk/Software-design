@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0C2688-D79D-4D4C-8BB8-AB495541AA2E}|task5\\task5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0C2688-D79D-4D4C-8BB8-AB495541AA2E}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\enemybuilder .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\enemybuilder .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\Character.cs",
+              "RelativeDocumentMoniker": "LibraryTask5\\Character.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\Character.cs",
+              "RelativeToolTip": "LibraryTask5\\Character.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:52:43.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "LibraryTask5\\CharacterDirector.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\CharacterDirector.cs",
+              "RelativeToolTip": "LibraryTask5\\CharacterDirector.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:53:04.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyBuilder .cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\EnemyBuilder .cs",
+              "RelativeDocumentMoniker": "LibraryTask5\\EnemyBuilder .cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\EnemyBuilder .cs",
+              "RelativeToolTip": "LibraryTask5\\EnemyBuilder .cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA/wDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:52:23.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICharacterBuilder.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\ICharacterBuilder.cs",
+              "RelativeDocumentMoniker": "LibraryTask5\\ICharacterBuilder.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\ICharacterBuilder.cs",
+              "RelativeToolTip": "LibraryTask5\\ICharacterBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:51:56.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HeroBuilder.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\HeroBuilder.cs",
+              "RelativeDocumentMoniker": "LibraryTask5\\HeroBuilder.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\HeroBuilder.cs",
+              "RelativeToolTip": "LibraryTask5\\HeroBuilder.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADwvy8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:50:49.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\task5\\Program.cs",
+              "RelativeDocumentMoniker": "task5\\Program.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\task5\\Program.cs",
+              "RelativeToolTip": "task5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:49:15.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

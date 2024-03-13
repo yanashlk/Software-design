@@ -1,0 +1,12 @@
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\bin\Debug\net7.0\MYClassLibrary.deps.json
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\bin\Debug\net7.0\MYClassLibrary.dll
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\bin\Debug\net7.0\MYClassLibrary.pdb
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\obj\Debug\net7.0\MYClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\obj\Debug\net7.0\MYClassLibrary.AssemblyInfoInputs.cache
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\obj\Debug\net7.0\MYClassLibrary.AssemblyInfo.cs
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\obj\Debug\net7.0\MYClassLibrary.csproj.CoreCompileInputs.cache
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\obj\Debug\net7.0\MYClassLibrary.sourcelink.json
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\obj\Debug\net7.0\MYClassLibrary.dll
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\obj\Debug\net7.0\refint\MYClassLibrary.dll
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\obj\Debug\net7.0\MYClassLibrary.pdb
+D:\#2 курс\2 семестр\Констроювання програмного забезпечення\Лаби\Lab2\MYClassLibrary\obj\Debug\net7.0\ref\MYClassLibrary.dll
