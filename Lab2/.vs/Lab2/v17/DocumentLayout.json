@@ -3,28 +3,84 @@
   "WorkspaceRootPath": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\characterdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE0C2688-D79D-4D4C-8BB8-AB495541AA2E}|task5\\task5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE0C2688-D79D-4D4C-8BB8-AB495541AA2E}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\enemybuilder .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\enemybuilder .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\icharacterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\librarytask5\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E224D3C-D1B1-4DCE-8673-CD50C42261A4}|LibraryTask5\\LibraryTask5.csproj|solutionrelative:librarytask5\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\applelaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\applelaptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\asusnetbook .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\asusnetbook .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\amazonkindle .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\amazonkindle .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\lenovolaptop .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\lenovolaptop .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\samsungebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\samsungebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\techdevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\techdevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\huaweismartphone .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\huaweismartphone .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\googlepixel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\googlepixel .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\xiaominetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\xiaominetbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\netbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\netbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\myclasslibrary\\librarytask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D20E6648-E2B1-48AC-9BB9-21D58E75A4A7}|MYClassLibrary\\LibraryTask2.csproj|solutionrelative:myclasslibrary\\librarytask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE0C2688-D79D-4D4C-8BB8-AB495541AA2E}|task5\\task5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab2\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0C2688-D79D-4D4C-8BB8-AB495541AA2E}|task5\\task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,76 +90,258 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Character.cs",
-              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\Character.cs",
-              "RelativeDocumentMoniker": "LibraryTask5\\Character.cs",
-              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\Character.cs",
-              "RelativeToolTip": "LibraryTask5\\Character.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAswAsAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T14:52:43.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CharacterDirector.cs",
-              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\CharacterDirector.cs",
-              "RelativeDocumentMoniker": "LibraryTask5\\CharacterDirector.cs",
-              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\CharacterDirector.cs",
-              "RelativeToolTip": "LibraryTask5\\CharacterDirector.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAswBcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T14:53:04.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EnemyBuilder .cs",
-              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\EnemyBuilder .cs",
-              "RelativeDocumentMoniker": "LibraryTask5\\EnemyBuilder .cs",
-              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\EnemyBuilder .cs",
-              "RelativeToolTip": "LibraryTask5\\EnemyBuilder .cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAA/wDsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T14:52:23.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "AppleLaptop.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\AppleLaptop.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\AppleLaptop.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\AppleLaptop.cs",
+              "RelativeToolTip": "MYClassLibrary\\AppleLaptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:01:34.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ICharacterBuilder.cs",
               "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\ICharacterBuilder.cs",
               "RelativeDocumentMoniker": "LibraryTask5\\ICharacterBuilder.cs",
               "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\ICharacterBuilder.cs",
               "RelativeToolTip": "LibraryTask5\\ICharacterBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T14:51:56.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\Character.cs",
+              "RelativeDocumentMoniker": "LibraryTask5\\Character.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\Character.cs",
+              "RelativeToolTip": "LibraryTask5\\Character.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:52:43.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterDirector.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\CharacterDirector.cs",
+              "RelativeDocumentMoniker": "LibraryTask5\\CharacterDirector.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\CharacterDirector.cs",
+              "RelativeToolTip": "LibraryTask5\\CharacterDirector.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:53:04.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HeroBuilder.cs",
               "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\HeroBuilder.cs",
               "RelativeDocumentMoniker": "LibraryTask5\\HeroBuilder.cs",
               "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\HeroBuilder.cs",
               "RelativeToolTip": "LibraryTask5\\HeroBuilder.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAADwvy8AAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T14:50:49.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "EnemyBuilder .cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\EnemyBuilder .cs",
+              "RelativeDocumentMoniker": "LibraryTask5\\EnemyBuilder .cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\LibraryTask5\\EnemyBuilder .cs",
+              "RelativeToolTip": "LibraryTask5\\EnemyBuilder .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T14:52:23.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AsusNetbook .cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\AsusNetbook .cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\AsusNetbook .cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\AsusNetbook .cs",
+              "RelativeToolTip": "MYClassLibrary\\AsusNetbook .cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:01:35.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AmazonKindle .cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\AmazonKindle .cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\AmazonKindle .cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\AmazonKindle .cs",
+              "RelativeToolTip": "MYClassLibrary\\AmazonKindle .cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T11:59:51.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LenovoLaptop .cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\LenovoLaptop .cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\LenovoLaptop .cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\LenovoLaptop .cs",
+              "RelativeToolTip": "MYClassLibrary\\LenovoLaptop .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:01:00.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SamsungEBook.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\SamsungEBook.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\SamsungEBook.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\SamsungEBook.cs",
+              "RelativeToolTip": "MYClassLibrary\\SamsungEBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:08:42.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\Smartphone.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\Smartphone.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\Smartphone.cs",
+              "RelativeToolTip": "MYClassLibrary\\Smartphone.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:14:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TechDeviceFactory.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\TechDeviceFactory.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\TechDeviceFactory.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\TechDeviceFactory.cs",
+              "RelativeToolTip": "MYClassLibrary\\TechDeviceFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:01:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HuaweiSmartphone .cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\HuaweiSmartphone .cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\HuaweiSmartphone .cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\HuaweiSmartphone .cs",
+              "RelativeToolTip": "MYClassLibrary\\HuaweiSmartphone .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:01:38.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\Laptop.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\Laptop.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\Laptop.cs",
+              "RelativeToolTip": "MYClassLibrary\\Laptop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:00:53.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GooglePixel .cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\GooglePixel .cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\GooglePixel .cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\GooglePixel .cs",
+              "RelativeToolTip": "MYClassLibrary\\GooglePixel .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:01:37.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EBook.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\EBook.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\EBook.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\EBook.cs",
+              "RelativeToolTip": "MYClassLibrary\\EBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:01:36.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XiaomiNetbook.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\XiaomiNetbook.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\XiaomiNetbook.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\XiaomiNetbook.cs",
+              "RelativeToolTip": "MYClassLibrary\\XiaomiNetbook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T13:08:47.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Netbook.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\Netbook.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary\\Netbook.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\Netbook.cs",
+              "RelativeToolTip": "MYClassLibrary\\Netbook.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:00:37.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LibraryTask2",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\LibraryTask2.csproj",
+              "RelativeDocumentMoniker": "MYClassLibrary\\LibraryTask2.csproj",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\MYClassLibrary\\LibraryTask2.csproj",
+              "RelativeToolTip": "MYClassLibrary\\LibraryTask2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T11:57:26.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab2\\task5\\Program.cs",
               "RelativeDocumentMoniker": "task5\\Program.cs",
