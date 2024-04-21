@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF74C2D3-D723-47FD-A59F-47D8C51C536C}|Task5\\Task5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab4\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF74C2D3-D723-47FD-A59F-47D8C51C536C}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D555EC9-2D6C-4FBA-B80C-51E25D48C70D}|MYClassLibrary5\\MYClassLibrary5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab4\\myclasslibrary5\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D555EC9-2D6C-4FBA-B80C-51E25D48C70D}|MYClassLibrary5\\MYClassLibrary5.csproj|solutionrelative:myclasslibrary5\\texteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D555EC9-2D6C-4FBA-B80C-51E25D48C70D}|MYClassLibrary5\\MYClassLibrary5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab4\\myclasslibrary5\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D555EC9-2D6C-4FBA-B80C-51E25D48C70D}|MYClassLibrary5\\MYClassLibrary5.csproj|solutionrelative:myclasslibrary5\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D555EC9-2D6C-4FBA-B80C-51E25D48C70D}|MYClassLibrary5\\MYClassLibrary5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab4\\myclasslibrary5\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D555EC9-2D6C-4FBA-B80C-51E25D48C70D}|MYClassLibrary5\\MYClassLibrary5.csproj|solutionrelative:myclasslibrary5\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4570F04-FAA0-4DBA-96D7-1A587C3E8459}|Task4\\Task4.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4570F04-FAA0-4DBA-96D7-1A587C3E8459}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F9FF3-56AD-4626-A41C-4072B608E79B}|MYClassLibrary4\\MYClassLibrary4.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab4\\myclasslibrary4\\imageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F9FF3-56AD-4626-A41C-4072B608E79B}|MYClassLibrary4\\MYClassLibrary4.csproj|solutionrelative:myclasslibrary4\\imageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7F9FF3-56AD-4626-A41C-4072B608E79B}|MYClassLibrary4\\MYClassLibrary4.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab4\\myclasslibrary4\\imageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7F9FF3-56AD-4626-A41C-4072B608E79B}|MYClassLibrary4\\MYClassLibrary4.csproj|solutionrelative:myclasslibrary4\\imageloadingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:57:54.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextEditor.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary5\\TextEditor.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary5\\TextEditor.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary5\\TextEditor.cs",
+              "RelativeToolTip": "MYClassLibrary5\\TextEditor.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:57:10.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary5\\Memento.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary5\\Memento.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary5\\Memento.cs",
+              "RelativeToolTip": "MYClassLibrary5\\Memento.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:56:52.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextDocument.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary5\\TextDocument.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary5\\TextDocument.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary5\\TextDocument.cs",
+              "RelativeToolTip": "MYClassLibrary5\\TextDocument.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:56:10.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:46:55.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageLoadingStrategy.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary4\\ImageLoadingStrategy.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary4\\ImageLoadingStrategy.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary4\\ImageLoadingStrategy.cs",
+              "RelativeToolTip": "MYClassLibrary4\\ImageLoadingStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:31:53.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageLoader.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary4\\ImageLoader.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary4\\ImageLoader.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab4\\MYClassLibrary4\\ImageLoader.cs",
+              "RelativeToolTip": "MYClassLibrary4\\ImageLoader.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:30:33.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

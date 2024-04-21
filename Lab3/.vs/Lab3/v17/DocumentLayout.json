@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E0DE3A1-927C-4BB6-B16A-C77659936646}|MYClassLibrary5\\MYClassLibrary5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab3\\myclasslibrary5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0DE3A1-927C-4BB6-B16A-C77659936646}|MYClassLibrary5\\MYClassLibrary5.csproj|solutionrelative:myclasslibrary5\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0DE3A1-927C-4BB6-B16A-C77659936646}|MYClassLibrary5\\MYClassLibrary5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab3\\myclasslibrary5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0DE3A1-927C-4BB6-B16A-C77659936646}|MYClassLibrary5\\MYClassLibrary5.csproj|solutionrelative:myclasslibrary5\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0DE3A1-927C-4BB6-B16A-C77659936646}|MYClassLibrary5\\MYClassLibrary5.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab3\\myclasslibrary5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0DE3A1-927C-4BB6-B16A-C77659936646}|MYClassLibrary5\\MYClassLibrary5.csproj|solutionrelative:myclasslibrary5\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BF679E1-866B-4C7A-AF97-3D29C2A6BF64}|task6\\task6.csproj|d:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u043B\u0430\u0431\u0438\\lab3\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF679E1-866B-4C7A-AF97-3D29C2A6BF64}|task6\\task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,15 +38,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\MYClassLibrary5\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary5\\LightTextNode.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\MYClassLibrary5\\LightTextNode.cs",
+              "RelativeToolTip": "MYClassLibrary5\\LightTextNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:02:49.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\MYClassLibrary5\\LightNode.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary5\\LightNode.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\MYClassLibrary5\\LightNode.cs",
+              "RelativeToolTip": "MYClassLibrary5\\LightNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:02:46.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\MYClassLibrary5\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "MYClassLibrary5\\LightElementNode.cs",
+              "ToolTip": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\MYClassLibrary5\\LightElementNode.cs",
+              "RelativeToolTip": "MYClassLibrary5\\LightElementNode.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwEIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T12:02:40.492Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LightElementNode.cs",
               "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\MYClassLibrary6\\LightElementNode.cs",
               "RelativeDocumentMoniker": "MYClassLibrary6\\LightElementNode.cs",
@@ -42,12 +93,11 @@
               "RelativeToolTip": "MYClassLibrary6\\LightElementNode.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:49:15.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T14:49:15.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LightTextNode.cs",
               "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\MYClassLibrary6\\LightTextNode.cs",
               "RelativeDocumentMoniker": "MYClassLibrary6\\LightTextNode.cs",
@@ -55,12 +105,11 @@
               "RelativeToolTip": "MYClassLibrary6\\LightTextNode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:48:41.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T14:48:41.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\task6\\Program.cs",
               "RelativeDocumentMoniker": "task6\\Program.cs",
@@ -73,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LightNode.cs",
               "DocumentMoniker": "D:\\#2 \u043A\u0443\u0440\u0441\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u043E\u043D\u0441\u0442\u0440\u043E\u044E\u0432\u0430\u043D\u043D\u044F \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u043E\u0433\u043E \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F\\\u041B\u0430\u0431\u0438\\Lab3\\MYClassLibrary6\\LightNode.cs",
               "RelativeDocumentMoniker": "MYClassLibrary6\\LightNode.cs",
@@ -81,8 +130,7 @@
               "RelativeToolTip": "MYClassLibrary6\\LightNode.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T14:46:59.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T14:46:59.238Z"
             }
           ]
         }
