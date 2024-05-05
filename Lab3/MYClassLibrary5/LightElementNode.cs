@@ -64,5 +64,22 @@ namespace MYClassLibrary5
                 return sb.ToString();
             }
         }
+        // Шаблонний метод з хуками життєвого циклу
+        public override void Render()
+        {
+            OnCreated();
+            base.Render(); // Виклик методу базового класу
+            OnInserted();
+        }
+
+        protected virtual void OnCreated()
+        {
+            Console.WriteLine("Element node created.");
+        }
+
+        protected virtual void OnInserted()
+        {
+            Console.WriteLine("Element node inserted.");
+        }
     }
 }

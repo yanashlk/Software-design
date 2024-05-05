@@ -18,5 +18,11 @@ namespace MYClassLibrary5
 
         public override string OuterHTML => text;
         public override string InnerHTML => text;
+        
+        // Перевизначення методу Render
+        public override void Render()
+        {
+            Console.WriteLine("Text node rendered.");
+        }
     }
 }
