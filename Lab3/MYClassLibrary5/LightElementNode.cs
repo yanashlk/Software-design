@@ -9,6 +9,9 @@ namespace MYClassLibrary5
     public class LightElementNode : LightNode
     {
         private string tagName;
+        public List<LightNode> Children { get; set; }
+
+        public string TagName { get; set; }
         private string displayType;
         private string closingType;
         private List<string> cssClasses;
@@ -80,6 +83,12 @@ namespace MYClassLibrary5
         protected virtual void OnInserted()
         {
             Console.WriteLine("Element node inserted.");
+        }
+        
+
+        public override void Accept(MarkdownVisitor visitor)
+        {
+            visitor.VisitElementNode(this);
         }
     }
 }

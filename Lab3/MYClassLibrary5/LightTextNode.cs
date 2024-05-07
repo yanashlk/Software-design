@@ -24,5 +24,9 @@ namespace MYClassLibrary5
         {
             Console.WriteLine("Text node rendered.");
         }
+        public override void Accept(MarkdownVisitor visitor)
+        {
+            visitor.VisitTextNode(this);
+        }
     }
 }
