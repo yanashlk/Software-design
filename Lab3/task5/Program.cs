@@ -29,5 +29,17 @@ internal class Program
 
         // Виконання команди
         invoker.ExecuteCommand();
+
+        // Створення контексту
+        NodeContext context = new NodeContext();
+
+        // Рендеринг початкового стану - блокового
+        context.Render();
+
+        // Зміна стану на інлайновий
+        context.SwitchToInlineState();
+
+        // Рендеринг зміненого стану - інлайнового
+        context.Render();
     }
 }
