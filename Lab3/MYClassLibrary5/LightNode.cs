@@ -11,5 +11,7 @@
             Console.WriteLine("Rendering node...");
             // Виклик перевизначеного методу Render в дочірньому класі
         }
+        // Метод для прийняття відвідувача
+        public abstract void Accept(MarkdownVisitor visitor);
     }
 }

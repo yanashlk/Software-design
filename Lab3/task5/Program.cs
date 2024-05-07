@@ -41,5 +41,17 @@ internal class Program
 
         // Рендеринг зміненого стану - інлайнового
         context.Render();
+
+        // Створення списку дочірніх вузлів
+        List<LightNode> newChildren = new List<LightNode> { new LightTextNode("Text inside element.") };
+
+        // Створення нового елемента вузла з визначеним closingType
+        LightNode newElementNode = new LightElementNode("div", "block", "double", cssClasses, newChildren);
+
+        // Створення відвідувача
+        MarkdownVisitor markdownVisitor = new MarkdownVisitor();
+
+        // Відвідування нового вузла
+        newElementNode.Accept(markdownVisitor);
     }
 }

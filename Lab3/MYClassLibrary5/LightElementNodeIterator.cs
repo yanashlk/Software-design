@@ -26,7 +26,10 @@ namespace MYClassLibrary5
 
             foreach (var child in currentNode.Children)
             {
-                _stack.Push(child);
+                if (child is LightElementNode)
+                {
+                    _stack.Push((LightElementNode)child);
+                }
             }
 
             return currentNode;
